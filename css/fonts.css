@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Qanelas';
+    src: url('../fonts/Qanelas-Bold.woff2') format('woff2'),
+        url('../fonts/Qanelas-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Qanelas';
+    src: url('../fonts/Qanelas-Bold.woff2') format('woff2'),
+        url('../fonts/Qanelas-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Qanelas';
+    src: url('../fonts/Qanelas-Medium.woff2') format('woff2'),
+        url('../fonts/Qanelas-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Qanelas';
+    src: url('../fonts/Qanelas-Medium.woff2') format('woff2'),
+        url('../fonts/Qanelas-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Regular.eot');
+    src: local('Roboto'), local('Roboto-Regular'),
+        url('../fonts/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Roboto-Regular.woff') format('woff'),
+        url('../fonts/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
